@@ -8,4 +8,6 @@ sql injection sur member id : 10A16D834F9B1E4068B25C4C46FE0284E99E44DCEAF08098FC
 
 similar, but in list_images instead: F2A29020EF3132E01DD61DF97FD33EC8D7FCD1388CC9601E7DB691D17D4D6188 (albatroz)
 
-forgot password ->  <input type="hidden" name="mail" value="webmaster@borntosec.com" maxlength="15"> change value : 1d4855f7337c0c14b6f44946872c4eb33853f40b2d54393fbe94f49f1e19bbb0 
+forgot password ->  <input type="hidden" name="mail" value="webmaster@borntosec.com" maxlength="15"> change value : 1d4855f7337c0c14b6f44946872c4eb33853f40b2d54393fbe94f49f1e19bbb0
+
+modify page redirect with random web site: b9e775a0291fed784a2d9680fcfad7edd6b8cdf87648da647aaf4bba288bcab3 
