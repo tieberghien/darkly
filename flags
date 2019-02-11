@@ -26,4 +26,6 @@
 
 12) .hidden folder scraping: 99dde1d35d1fdd283924d84e6d9f1d820
 
-13) unrestricted upload file type (curl -v -F "Upload=Upload" -F "uploaded=@./test.php;type=image/jpg" http://172.20.10.4/\?page\=upload): 46910d9ce35b385885a9f7e2b336249d622f29b267a1771fbacf52133beddba8 
+13) unrestricted upload file type (curl -v -F "Upload=Upload" -F "uploaded=@./test.php;type=image/jpg" http://172.20.10.4/\?page\=upload): 46910d9ce35b385885a9f7e2b336249d622f29b267a1771fbacf52133beddba8
+
+14) data urls base64: 928D819FC19405AE09921A2B71227BD9ABA106F9D2D37AC412E9E5A750F1506D 
