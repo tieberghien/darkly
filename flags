@@ -22,4 +22,8 @@
 
 10) I AM ROOT : d19b4823e0d5600ceed56d5e896ef328d7a2b9e7ac7e80f4fcdb9b10bcb3e7ff
 
+<<<<<<< HEAD
 11) yet another sql injection : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+=======
+11) yet another sql injection (1 AND 1=2 UNION SELECT username, password FROM Member_Brute_Force.db_default) : B3A6E43DDF8B4BBB4125E5E7D23040433827759D4DE1C04EA63907479A80A6B2
+>>>>>>> d1927dc86142a00d3a437ee1a719e02a2be00335
