@@ -8,6 +8,6 @@ Said cookie has a 32-bit value; it very much ressembles the other md5 hashes we 
 
     I_am_admin=b326b5062b2f0e69046810717534cb09
 
-You know are the admin.
+You now are the admin.
 
 ### How to protect yourself
