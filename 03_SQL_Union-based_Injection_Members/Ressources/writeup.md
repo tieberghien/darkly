@@ -12,7 +12,7 @@ A quick request tell us that we are dealing with a MySql database. The correct s
 
     1 AND 1=2 UNION SELECT table_name, column_name FROM information_schema.columns
 
-(Note that we know information_schema has two columns based on further investigation.)
+(Note that we know information_schema has two columns upon further investigation.)
 
 The table_name "users" has "first_name", "last_name", "town", "country", "planet", "Commentaire" and "countersign" columns.
 
