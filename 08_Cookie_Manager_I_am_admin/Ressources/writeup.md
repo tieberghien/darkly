@@ -1,6 +1,6 @@
 ### CTF
 
-First, launch a cookie manager addon (for the example, we used Cookie Manager for Firefox) on any given page of the website. There is a single cookie named I_am_admin with an expiration date:
+First, launch a cookie manager addon (for this example, we used Cookie Manager for Firefox) on any given page of the website. There is a single cookie named I_am_admin with an expiration date:
 
     I_am_admin=68934a3e9455fa72420237eb05902327
 
