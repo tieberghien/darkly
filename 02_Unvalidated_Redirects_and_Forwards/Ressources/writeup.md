@@ -4,4 +4,4 @@ For this exploit, go to any page which contains links to 42's facebook, twitter 
 
     <a href="index.php?page=redirect&site=facebook" class="icon fa-facebook"></a>
 
-Luckily for us, there is no redirect validation. This means we can forward users to any webpage. Needless to say this is a critical oversight, as any malicious user may manipulate cookies in order to redirect clueless users to a malicious webpage. 
+Luckily for us, there is no redirect validation. This means we can forward users to any webpage. Needless to say this is a grave oversight, as any malicious user may manipulate cookies in order to redirect clueless users to a malicious webpage. 
