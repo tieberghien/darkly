@@ -1,2 +1,0 @@
-# darkly
-Basically Owasp
