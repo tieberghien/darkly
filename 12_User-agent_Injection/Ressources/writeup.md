@@ -15,4 +15,4 @@ Simply grep the flag.
 
 ### How to protect yourself
 
-Cookies should be checked server-side, and there should be a unique ID for each section. You should not be able to retrieve cookies pertaining to identifying the user.
+Cookies should be checked server-side, and there should be a unique ID for each section. You should not be able to retrieve cookies pertaining to identifying the user. Use of the flags "secure" and "HttpOnly" is highly [recommended](https://www.information-security.fr/securite-sites-web-lutilite-flags-secure-httponly/).
