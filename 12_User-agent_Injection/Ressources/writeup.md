@@ -15,4 +15,8 @@ Simply grep the flag.
 
 ### How to protect yourself
 
-Cookies should be checked server-side, and there should be a unique ID for each section. You should not be able to retrieve cookies pertaining to identifying the user. Use of the flags "secure" and "HttpOnly" is highly [recommended](https://www.information-security.fr/securite-sites-web-lutilite-flags-secure-httponly/).
+Once again, no sanitize mechanism is in place.
+There are multiple solutions:
+1. [HTML/XML escape](https://www.w3.org/International/questions/qa-escapes#use) all user inputs so they can't be interpreted by the browser as HTML.
+2. [Javascript escape](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/DOM_based_XSS_Prevention_Cheat_Sheet.md#safe-and-functionally-correct-example) all user inputs so they can never be interpreted as javascript.
+3. Be more careful when inserting untrusted data in event handlers.
