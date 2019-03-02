@@ -8,5 +8,5 @@ Luckily for us, there is no redirect validation. This means we can forward users
 
 ### How to protect yourself
 
-Once again, the website is not protected against untrusted input. Here's a [link](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.md) to help you differentiate between safe and unsafe redirects: 
+Once again, the website is not protected against untrusted inputs. Here's a [link](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.md) to help you differentiate between safe and unsafe redirects. 
  
