@@ -1,6 +1,6 @@
 ### CTF
 
-First, go to the Members page of the website. You are asked to enter a member's id in order to find their profile. By doing so, you should get a result that looks very much liek this:
+First, go to the Members page of the website. You are asked to enter a member's id in order to find their profile. By doing so, you should get a result that looks very much like this:
 ```
     ID: 1 
     First name: Barack Hussein
