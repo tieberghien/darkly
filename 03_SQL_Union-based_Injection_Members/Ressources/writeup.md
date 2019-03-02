@@ -24,14 +24,12 @@ We simply follow the given instructions: the password is `fortytwo`
 
 ### How to protect yourself
 
-#### Main solutions
-
-There is multiple solutions:
-- One simple solution, and one of the most secured would be to use prepared SQL requests, meaning requests that takes parameters.
-Prepared requests' parameters are not interpreted as SQL, so one could alter the initial request.
-- Use of stored procedures. That would mean creating an alias to a SQL request, this alias can take parameters.  
-However this solution is not always completely safe, especially if includes any unsafe dynamic SQL generation.
-- One could also create a whitelist input validation. This can be useful if you espect different specific values.
-- Another solution would be to escape all user input so it can't be interpreted as a request.  
+There are multiple solutions:
+- One simple solution, and one of the most secured would be to use _prepared SQL requests_, meaning requests taking parameters.
+Prepared requests' parameters are not interpreted as SQL, so you can't alter the initial request.
+- Use of stored procedures, that is, creating an alias to a SQL request, this alias can take parameters.  
+However this solution is not fullproof, especially if it includes any unsafe dynamic SQL generation.
+- You could also create a whitelist input validation. This can be useful if you expect different specific values.
+- Another solution would be to escape all user inputs so they can't be interpreted as a request.  
 Of course you would not escape password inputs, you should hash them, because... who still stores clear passwords ?
 
