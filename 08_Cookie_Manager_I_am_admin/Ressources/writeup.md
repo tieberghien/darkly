@@ -12,4 +12,4 @@ You now are the admin.
 
 ### How to protect yourself
 
-
+Cookies should be checked server-side, and there should be a unique ID for each section. You should not be able to retrieve cookies pertaining to identifying the user.
